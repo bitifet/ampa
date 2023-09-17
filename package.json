@@ -1,0 +1,17 @@
+{
+  "name": "ampa",
+  "version": "1.0.0",
+  "description": "AMPA data renderization",
+  "bin": {
+    "ampa": "ampa.js"
+  },
+  "main": "ampa.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joan Miquel Torres <joanmi@gmail.com>",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "pug": "^3.0.2"
+  }
+}
